@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning english, spanish, C# and making  games
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-- 😄 Pronouns: Any
+- 😄 Pronouns: luis filho da puta desgraçado
 - ⚡ Fun fact: i learned english by myself
 
 <!---
