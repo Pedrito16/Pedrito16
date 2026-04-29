@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Pedrito16
-- 👀 I’m interested in games very cool
-- 🌱 I’m currently learning english, spanish, C# and making  games
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: luis filho da puta desgraçado
-- ⚡ Fun fact: i learned english by myself
+- Hello, im Pedro Gabriel Vicente
+- I'm interested in learning more about programming, always trying to improve.
+- I'm currently learning how to improve my games and coding.
+- I pretend to work as a programmer in the future.
 
 <!---
 Pedrito16/Pedrito16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
